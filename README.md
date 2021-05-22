@@ -1,5 +1,5 @@
 # gitskills
-# one_modify
+# one_modify_issue_101
 <<<<<<< HEAD
 # Creating a new branch is quick AND simple.
 =======
